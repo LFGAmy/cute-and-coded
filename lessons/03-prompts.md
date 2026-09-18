@@ -16,3 +16,7 @@ It's the cheapest upgrade available. Same AI, better answer, no new tools.
 ## steal this
 
 “you're a [role]. [context]. give me [what + format].”
+
+## try it now
+
+Take the last question you asked an AI. Ask it again with the recipe filled in: “you're a [role]. [one sentence of context]. give me [what], as [format].” Put the two answers side by side. The second one should be the one you'd actually use.

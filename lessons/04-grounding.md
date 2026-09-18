@@ -16,3 +16,7 @@ So you know when to trust it and when to make it show its work.
 ## steal this
 
 Ask “what's your source?” Turn on web search. Give it your own document to work from.
+
+## try it now
+
+Ask your chatbot something you already know the answer to, about your own town or your own job. Then ask “what's your source for that?” If it can't point to one, turn on web search and ask again. That's the difference between remembering and checking.
