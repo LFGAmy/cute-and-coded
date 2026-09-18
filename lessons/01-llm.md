@@ -19,4 +19,4 @@ It's right a lot, and it has no built-in way to tell when it isn't. That's why y
 
 ## try it now
 
-Open your chatbot and ask: “finish this sentence three different ways: the best thing about tuesdays is”. You'll get three perfectly fine answers and no way to tell which one is “true”. That's the whole lesson on one screen. It's picking likely words, not looking anything up.
+Open your chatbot and ask: “what year did my town's public library open?” Then ask: “are you sure?” Watch it change its answer, or defend it, without ever checking anything. That's the whole lesson on one screen. It's picking likely words, not looking things up.

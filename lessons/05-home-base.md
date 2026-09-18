@@ -20,3 +20,5 @@ New project → name it after the one thing you're working on → drop in the fi
 ## try it now
 
 Open your chatbot and look for “projects” in the sidebar. Make one, name it after the one thing you keep asking about, and drop in the two files you keep re-uploading. Start a chat inside it and ask a question with no background at all. It already knows.
+
+Can't find “projects”? Some apps call it something else, and some free plans hide it. Do the cheap version instead: keep one note with your two-sentence background and paste it at the top of every new chat.
